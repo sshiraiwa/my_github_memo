@@ -24,6 +24,9 @@ when creating a new repo at github. Need to add new remote origin
 Updating forked repo to upstream (to make forked repo even to upstream)
 
 > (need to do once. git remote add upstream git@github.com:organizatio/repo)
+
 > git fetch upstream master
+
 > git merge upstream/master
+
 > git push origin master
