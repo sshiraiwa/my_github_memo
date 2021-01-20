@@ -30,3 +30,5 @@ Updating forked repo to upstream (to make forked repo even to upstream)
 > git merge upstream/master
 
 > git push origin master
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=shiraiwa)](https://github.com/anuraghazra/github-readme-stats)
