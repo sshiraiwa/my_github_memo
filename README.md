@@ -31,4 +31,4 @@ Updating forked repo to upstream (to make forked repo even to upstream)
 
 > git push origin master
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=shiraiwa)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=sshiraiwa)](https://github.com/anuraghazra/github-readme-stats)
